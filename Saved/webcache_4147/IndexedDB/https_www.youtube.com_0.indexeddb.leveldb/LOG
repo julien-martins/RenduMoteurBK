@@ -1,0 +1,5 @@
+2022/12/15-15:06:27.592 3774 Reusing MANIFEST C:/Users/jmartins1/Documents/Unreal Projects/RenduMoteurBK/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/15-15:12:04.723 22ac Level-0 table #5: started
+2022/12/15-15:12:04.726 22ac Level-0 table #5: 8548 bytes OK
+2022/12/15-15:12:04.727 22ac Delete type=0 #3
+2022/12/15-15:12:04.728 22ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
